@@ -9,8 +9,7 @@ The [Bill of Materials](#bill-of-materials) can be found below.
 # Images
 ![bottom view](img/image.png)
 ![back view](img/image-1.png)
-![side view](img/image-2.png)
-![other side view](img/image-3.png)
+![side view](img/image-3.png)
 
 # Bill of Materials
 All prices are referenced on 2024-03-24
