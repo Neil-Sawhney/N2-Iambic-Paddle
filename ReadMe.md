@@ -27,7 +27,7 @@ However, this list of components is guaranteed to work as is.
 | 0 | Each | [5734N13](https://www.mcmaster.com/5734N13) | Circuit Board Audio Equipment Connector 90 Degree Elbow Receptacle, Off, Stereo Pin Connection | Delivers Wednesday | $5.12 | $5.12 |
 | 1 | Packs | [97715A424](https://www.mcmaster.com/97715A424) | Brass Button Head Hex Drive Screws 4-40 Thread Size, 3/16" Long | Delivers Wednesday | $1.97 | $3.94 |
 | 1 | Each | [5862K145](https://www.mcmaster.com/5862K145) | Neodymium Magnet Magnetized Through Thickness, 1/16" Thick, 1/2" OD | Delivers Wednesday | $1.20 | $2.40 |
-|  |  |  | **Merchandise** |  |  | **$44.53** |
+|  |  |  | **Total** |  |  | **$44.53** |
 
 # Assembly Instructions
 1. Print the parts in the STL folder
