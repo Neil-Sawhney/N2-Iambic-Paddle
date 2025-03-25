@@ -20,13 +20,13 @@ However, this list of components is guaranteed to work as is.
 
 | Qty | Unit | McMaster-Carr Part # | Description | Delivery | Price/Unit | Total Price |
 |---|---|---|---|---|---|---|
-| 0 | Pack | [92095A503](https://www.mcmaster.com/92095A503) | Button Head Hex Drive Screw Passivated 18-8 Stainless Steel, M2 x 0.40 mm Thread Size, 14 mm Long | Delivers Wednesday | $10.14 | $10.14 |
-| 3 | Each | [98816A216](https://www.mcmaster.com/98816A216) | Brass Raised Knurled-Head Thumb Screw 4-40 Thread Size, 1/4" Long | Delivers Wednesday | $2.72 | $10.88 |
-| 0 | Pack | [94459A120](https://www.mcmaster.com/94459A120) | Heat-Set Inserts for Plastic Brass, M2 x 0.4 mm, 4 mm Installed Length | Delivers Wednesday | $9.36 | $9.36 |
-| 0 | Pack | [91841A005](https://www.mcmaster.com/91841A005) | 18-8 Stainless Steel Hex Nut 4-40 Thread Size | Delivers Wednesday | $3.69 | $3.69 |
-| 0 | Each | [5734N13](https://www.mcmaster.com/5734N13) | Circuit Board Audio Equipment Connector 90 Degree Elbow Receptacle, Off, Stereo Pin Connection | Delivers Wednesday | $5.12 | $5.12 |
-| 1 | Packs | [97715A424](https://www.mcmaster.com/97715A424) | Brass Button Head Hex Drive Screws 4-40 Thread Size, 3/16" Long | Delivers Wednesday | $1.97 | $3.94 |
-| 1 | Each | [5862K145](https://www.mcmaster.com/5862K145) | Neodymium Magnet Magnetized Through Thickness, 1/16" Thick, 1/2" OD | Delivers Wednesday | $1.20 | $2.40 |
+| 1 | Pack | [92095A503](https://www.mcmaster.com/92095A503) | Button Head Hex Drive Screw Passivated 18-8 Stainless Steel, M2 x 0.40 mm Thread Size, 14 mm Long | $10.14 | $10.14 |
+| 4 | Each | [98816A216](https://www.mcmaster.com/98816A216) | Brass Raised Knurled-Head Thumb Screw 4-40 Thread Size, 1/4" Long | $2.72 | $10.88 |
+| 1 | Pack | [94459A120](https://www.mcmaster.com/94459A120) | Heat-Set Inserts for Plastic Brass, M2 x 0.4 mm, 4 mm Installed Length | $9.36 | $9.36 |
+| 1 | Pack | [91841A005](https://www.mcmaster.com/91841A005) | 18-8 Stainless Steel Hex Nut 4-40 Thread Size | $3.69 | $3.69 |
+| 1 | Each | [5734N13](https://www.mcmaster.com/5734N13) | Circuit Board Audio Equipment Connector 90 Degree Elbow Receptacle, Off, Stereo Pin Connection | $5.12 | $5.12 |
+| 2 | Packs | [97715A424](https://www.mcmaster.com/97715A424) | Brass Button Head Hex Drive Screws 4-40 Thread Size, 3/16" Long | $1.97 | $3.94 |
+| 2 | Each | [5862K145](https://www.mcmaster.com/5862K145) | Neodymium Magnet Magnetized Through Thickness, 1/16" Thick, 1/2" OD | $1.20 | $2.40 |
 |  |  |  | **Total** |  |  | **$44.53** |
 
 # Assembly Instructions
