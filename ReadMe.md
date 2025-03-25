@@ -7,9 +7,9 @@ The design files (SolidWorks 2022) are included in this directory as well as the
 The [Bill of Materials](#bill-of-materials) can be found below.
 
 # Images
-![bottom view](img/image.png)
-![back view](img/image-1.png)
 ![side view](img/image-3.png)
+![back view](img/image-1.png)
+![bottom view](img/image.png)
 
 # Bill of Materials
 All prices are referenced on 2024-03-24
