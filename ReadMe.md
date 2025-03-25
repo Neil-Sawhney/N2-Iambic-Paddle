@@ -55,4 +55,4 @@ However, this list of components is guaranteed to work as is.
 ## Tips and Tricks
 I applied a thin layer of E6000 glue to the bottom of the base to give it some grip on the table. This is optional but I found it to be helpful to prevent the paddle from sliding around.
 
-I also applied some thread lock to the brass thumb screws to get them from moving, which allows finer adjustment of the paddle tension and spacing.
+I also applied some thread lock to the brass thumb screws to prevent them from moving, which allows for finer adjustment of the paddle tension and spacing.
